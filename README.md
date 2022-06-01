@@ -1,3 +1,3 @@
 # Olá, Mundo!
  Primeiro repositório do curso git e github
- Primeiro repositório do curso git e github ao vivo.
+ Repositório criado durante uma aula no dia 31.5.2022
